@@ -11,6 +11,7 @@ mis proyectos principales y las tecnologias con las que ya puedo aportar valor.
 - `assets/css/style.css`: estilos visuales, layout y responsive design.
 - `assets/js/main.js`: navegacion activa, cierre del menu en mobile y animaciones de entrada.
 - `assets/img/perfil_image.jpeg`: foto de perfil principal.
+- Seccion adicional para mini retos en TypeScript separada de los proyectos principales.
 
 ## Direccion del diseno
 
@@ -22,4 +23,5 @@ mis proyectos principales y las tecnologias con las que ya puedo aportar valor.
 ## Objetivo actual
 
 Mantener un portafolio visualmente fuerte, claro de leer y cada vez mas alineado con
-mi perfil profesional real, especialmente en backend, bases de datos y sistemas.
+mi perfil profesional real, especialmente en backend, bases de datos, sistemas y retos
+tecnicos construidos para practicar fundamentos.

@@ -15,6 +15,7 @@ con especial interes en backend, bases de datos y construccion de soluciones web
 - Hero con propuesta profesional
 - Sobre mi
 - Proyectos destacados
+- Mini retos en TypeScript
 - Habilidades
 - Contacto
 
@@ -23,3 +24,7 @@ con especial interes en backend, bases de datos y construccion de soluciones web
 - UCABAIR
 - Juego del Ahorcado
 - Simulador de Terminal Unix
+
+## Mini retos
+
+- Yammy System
