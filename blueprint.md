@@ -1,28 +1,25 @@
-# My Portfolio
+# Portafolio de Arturo Perez
 
-## Overview
+## Resumen
 
-A simple, responsive portfolio website built with HTML, CSS, and JavaScript, using the Bootstrap framework.
+Sitio de una sola pagina construido con HTML, CSS y JavaScript para presentar mi perfil,
+mis proyectos principales y las tecnologias con las que ya puedo aportar valor.
 
-## Project Structure and Design
+## Estructura del proyecto
 
-### Structure
-- `index.html`: The main entry point of the application.
-- `assets/css/style.css`: For custom styles.
-- `assets/js/main.js`: For custom JavaScript.
-- `blueprint.md`: This file, documenting the project.
+- `index.html`: estructura principal del portafolio.
+- `assets/css/style.css`: estilos visuales, layout y responsive design.
+- `assets/js/main.js`: navegacion activa, cierre del menu en mobile y animaciones de entrada.
+- `assets/img/perfil_image.jpeg`: foto de perfil principal.
 
-### Design
-- **Framework:** Bootstrap 5.3
-- **Layout:** A single-page layout with a fixed navigation bar and multiple sections.
-- **Sections:**
-    - Hero Section: A welcoming message, a circular profile image, and an introduction.
-    - About Me
-    - My Projects
-    - My Skills
-    - Contact (in the footer)
+## Direccion del diseno
 
-## Current Task: Center Hero Section
+- Estetica oscura con acentos turquesa y dorados.
+- Tipografias `Space Grotesk` y `Syne` para reforzar identidad visual.
+- Navegacion fija con scroll suave y secciones claramente separadas.
+- Tarjetas para proyectos, habilidades y contacto con efecto de profundidad.
 
-### Plan
-1.  **Adjust Hero Section Height:** Modify the `min-height` of the `hero` section in `index.html` to `calc(100vh - 56px)`. This will make the hero section fill the viewport below the navbar without creating extra space.
+## Objetivo actual
+
+Mantener un portafolio visualmente fuerte, claro de leer y cada vez mas alineado con
+mi perfil profesional real, especialmente en backend, bases de datos y sistemas.
